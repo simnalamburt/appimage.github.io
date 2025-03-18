@@ -19,7 +19,7 @@
   "homepage": "https://github.com/z-------------/cumulonimbus",
   "dependencies": {
     "autolinker": "^1.6.2",
-    "electron-updater": "^2.20.1",
+    "electron-updater": "^6.3.9",
     "file-url": "^2.0.2",
     "html5sortable": "0.8.1",
     "i18n-iso-countries": "^3.7.3",
@@ -31,7 +31,7 @@
     "os-locale": "^2.1.0",
     "request": "^2.87.0",
     "sanitize-filename": "^1.6.1",
-    "sanitize-html": "^1.18.5",
+    "sanitize-html": "^2.14.0",
     "tippy.js": "^2.1.1"
   },
   "optionalDependencies": {
