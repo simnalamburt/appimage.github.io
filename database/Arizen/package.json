@@ -20,7 +20,7 @@
     "node": ">=6.0"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.8.3",
     "axios-debug-log": "^0.4.0",
     "bip32-utils": "^0.11.0",
     "bitcoinjs-lib": "^3.3.1",
@@ -36,7 +36,7 @@
     "fs-extra": "^6.0.1",
     "immutable": "^3.8.2",
     "is-ip": "^2.0.0",
-    "jspdf": "^1.4.0",
+    "jspdf": "^3.0.1",
     "luxon": "^1.2.1",
     "node-json-rpc2": "^1.1.0",
     "node-ssh": "^5.1.1",
