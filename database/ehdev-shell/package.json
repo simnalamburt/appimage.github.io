@@ -22,7 +22,7 @@
     "stats-webpack-plugin": "^0.6.2",
     "uglifyjs-webpack-plugin": "^1.2.6",
     "webpack": "^4.14.0",
-    "webpack-bundle-analyzer": "^2.13.1",
+    "webpack-bundle-analyzer": "^4.10.2",
     "webpack-dev-server": "^3.1.4",
     "zopflipng-bin": "^4.1.0"
   },
