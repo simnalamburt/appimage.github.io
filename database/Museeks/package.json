@@ -41,7 +41,7 @@
     "react-svg-inline": "2.1.0",
     "redux": "3.7.2",
     "redux-thunk": "2.2.0",
-    "semver": "5.5.0",
+    "semver": "5.7.2",
     "teeny-conf": "1.1.0"
   }
 }
