@@ -8,7 +8,7 @@
   "main": "./dist/electron/main.js",
   "dependencies": {
     "adm-zip": "^0.4.11",
-    "axios": "^0.16.1",
+    "axios": "^1.13.5",
     "bluebird": "^3.5.1",
     "bourbon": "^5.1.0",
     "bytebuffer": "^5.0.1",
