@@ -70,7 +70,7 @@
     "reflux": "^0.2.13",
     "run-applescript": "^3.2.0",
     "sanitize-filename": "^1.6.1",
-    "semver": "5.4.1",
+    "semver": "5.7.2",
     "ssh-config": "0.2.1",
     "stable": "0.1.6",
     "stack-trace": "0.0.10",
