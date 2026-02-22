@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "./dist/electron/main.js",
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^1.13.5",
     "crypto-js": "^3.1.9-1",
     "dsteem": "^0.8.7",
     "lodash": "^4.17.5",
