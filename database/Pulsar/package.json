@@ -121,7 +121,7 @@
     "line-top-index": "0.3.1",
     "link": "file:packages/link",
     "markdown-preview": "https://codeload.github.com/atom/markdown-preview/legacy.tar.gz/refs/tags/v0.160.2",
-    "minimatch": "^3.0.3",
+    "minimatch": "^10.2.2",
     "mocha": "6.2.3",
     "mocha-junit-reporter": "2.0.0",
     "mocha-multi-reporters": "^1.1.4",
@@ -1033,7 +1033,7 @@
           "fuzzaldrin-plus": "^0.6.0",
           "grim": "^2.0.1",
           "marked": "^0.7.0",
-          "minimatch": "^3.0.3",
+          "minimatch": "^10.2.2",
           "selector-kit": "^0.1",
           "stable": "^0.1.5",
           "underscore-plus": "^1.6.6"
