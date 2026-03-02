@@ -7,7 +7,7 @@
   "license": null,
   "main": "./dist/electron/main.js",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.13.6",
     "electron-json-storage": "^4.0.2",
     "npm": "^5.8.0",
     "vue": "^2.3.3",
