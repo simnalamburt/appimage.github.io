@@ -47,7 +47,7 @@
     "@material-ui/icons": "^1.1.0",
     "@octokit/rest": "^15.17.0",
     "angry-purple-tiger": "^1.0.0",
-    "axios": "^0.18.0",
+    "axios": "^1.13.6",
     "chart.js": "^2.7.2",
     "classnames": "^2.2.6",
     "del": "^3.0.0",
