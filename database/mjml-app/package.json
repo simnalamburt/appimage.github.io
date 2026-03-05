@@ -20,7 +20,7 @@
     "electron-updater": "^2.21.3",
     "es6-promisify": "^6.0.0",
     "fuse.js": "^3.2.0",
-    "immutable": "^3.8.2",
+    "immutable": "^5.1.5",
     "js-beautify": "^1.7.5",
     "mjml": "^4.0.3",
     "mjml-migrate": "^4.0.1",
