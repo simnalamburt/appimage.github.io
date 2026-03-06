@@ -11,7 +11,7 @@
   },
   "main": "./dist/electron/main.js",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.13.6",
     "electron-baidu-tongji": "^1.0.2",
     "electron-json-storage": "^4.1.1",
     "element-ui": "^2.4.5",

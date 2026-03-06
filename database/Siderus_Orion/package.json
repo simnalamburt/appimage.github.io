@@ -35,7 +35,7 @@
     "request-promise-native": "^1.0.5",
     "spin.js": "^2.3.2",
     "styled-components": "^3.4.9",
-    "tar": "^4.4.8",
+    "tar": "^7.5.10",
     "tmp": "^0.0.33",
     "uuid": "^3.3.2"
   },
