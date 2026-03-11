@@ -24,7 +24,7 @@
     "dirStat": "0.0.2",
     "font-awesome": "4.7.0",
     "fs-extra": "4.0.2",
-    "immutable": "3.8.1",
+    "immutable": "3.8.3",
     "klaw": "2.1.0",
     "lodash": "4.17.4",
     "mode-to-permissions": "0.0.2",
