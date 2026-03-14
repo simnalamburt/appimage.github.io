@@ -27,6 +27,6 @@
     "stream": "0.0.2",
     "stream-to-array": "^2.3.0",
     "threads": "0.7.2",
-    "yauzl": "2.8.0"
+    "yauzl": "3.2.1"
   }
 }
