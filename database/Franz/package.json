@@ -52,7 +52,7 @@
     "react-tooltip": "^3.2.7",
     "route-parser": "^0.0.5",
     "smoothscroll-polyfill": "^0.3.4",
-    "tar": "^4.0.2",
+    "tar": "^7.5.11",
     "uuid": "^3.0.1"
   },
   "config": {
