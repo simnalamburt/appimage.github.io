@@ -11,7 +11,7 @@
     "@angular/common": "5.1.0",
     "@angular/compiler": "5.1.0",
     "@angular/compiler-cli": "5.1.0",
-    "@angular/core": "5.1.0",
+    "@angular/core": "19.2.20",
     "@angular/platform-browser": "5.1.0",
     "@angular/platform-browser-dynamic": "5.1.0",
     "@types/vis": "^4.17.3",
