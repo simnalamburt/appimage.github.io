@@ -36,7 +36,7 @@
     "fs-extra": "^6.0.1",
     "immutable": "^3.8.2",
     "is-ip": "^2.0.0",
-    "jspdf": "^1.4.0",
+    "jspdf": "^4.2.1",
     "luxon": "^1.2.1",
     "node-json-rpc2": "^1.1.0",
     "node-ssh": "^5.1.1",
