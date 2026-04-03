@@ -43,7 +43,7 @@
     "object-path": "^0.11.4",
     "parse-color": "^1.0.0",
     "semver": "^5.5.0",
-    "tar": "^4.3.2",
+    "tar": "^7.5.13",
     "tempy": "^0.2.1",
     "title-case": "^2.1.1",
     "write-file-atomic": "^2.3.0",
