@@ -26,7 +26,7 @@
     "eosjs-ecc": "4.0.4",
     "file-saver": "2.0.0",
     "fs-web": "1.0.1",
-    "sjcl": "1.0.8",
+    "sjcl": "1.0.9",
     "volentix-ledger": "0.2.71",
     "vue": "2.5.22",
     "vue-filter-number-format": "^1.0.3",
