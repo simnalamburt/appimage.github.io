@@ -39,7 +39,7 @@
     "knex": "0.11.7",
     "knex-list-db-table": "0.2.0",
     "localforage": "^1.6.0",
-    "lodash": "4.17.4",
+    "lodash": "4.18.1",
     "lz-string": "1.4.4",
     "mb-bson": "1.0.4",
     "mb-mquery": "^2.3.16",
