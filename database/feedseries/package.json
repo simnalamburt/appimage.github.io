@@ -11,7 +11,7 @@
   "main": "./dist/electron/main.js",
   "dependencies": {
     "auto-launch": "^5.0.5",
-    "axios": "^0.16.1",
+    "axios": "^1.15.0",
     "camo": "^0.12.3",
     "canvasjs": "github:vasilrimar/canvasjs",
     "electron-log": "^2.2.14",
