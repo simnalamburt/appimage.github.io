@@ -48,7 +48,7 @@
     "js2xmlparser": "^1.0.0",
     "keyboardjs": "^2.2.1",
     "keymaster": "^1.6.2",
-    "lodash": "4.11.1",
+    "lodash": "4.18.1",
     "md5": "^2.2.1",
     "mkdirp": "^0.5.1",
     "moment": "^2.14.1",
