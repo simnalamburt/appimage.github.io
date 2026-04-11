@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "./dist/electron/main.js",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.15.0",
     "cheerio": "^1.0.0-rc.2",
     "codemirror": "^5.31.0",
     "css-tree": "^1.0.0-alpha.28",
