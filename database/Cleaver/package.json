@@ -50,7 +50,7 @@
     }
   },
   "dependencies": {
-    "axios": "^0.17.0",
+    "axios": "^1.15.0",
     "child-process-promise": "^2.2.1",
     "cron-parser": "^2.5.0",
     "doapi": "^0.1.4",
