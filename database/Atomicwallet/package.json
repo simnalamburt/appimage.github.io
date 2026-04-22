@@ -11,7 +11,7 @@
     "@cobo/eos": "^0.2.0",
     "@dashevo/dashcore-lib": "^0.16.8",
     "@tronscan/client": "^0.2.39",
-    "axios": "^0.18.0",
+    "axios": "^1.15.2",
     "bcd-bitcoinjs-lib": "git://github.com/horus20/bcd-bitcoinjs-lib.git",
     "bchaddrjs": "^0.2.1",
     "bgoldjs-lib": "^3.3.3",
