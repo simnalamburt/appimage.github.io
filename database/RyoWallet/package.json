@@ -7,7 +7,7 @@
   "author": "Ryo-currency <contact@ryo-currency.com>",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.15.2",
     "object-assign-deep": "^0.4.0",
     "portscanner": "^2.2.0",
     "qrcode.vue": "^1.6.0",

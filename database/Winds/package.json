@@ -13,7 +13,7 @@
   "main": "build/electron.js",
   "dependencies": {
     "algoliasearch": "^3.27.1",
-    "axios": "^0.18.0",
+    "axios": "^1.15.2",
     "babel-plugin-inline-dotenv": "^1.1.2",
     "electron-boilerplate": "^1.1.1",
     "electron-google-analytics": "^0.1.0",
