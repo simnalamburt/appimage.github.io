@@ -15,7 +15,7 @@
     "url": "git+https://github.com/dhso/my-jira.git"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.15.2",
     "dayjs": "^1.8.12",
     "electron-simple-updater": "^1.5.0",
     "electron-store": "^3.2.0",
