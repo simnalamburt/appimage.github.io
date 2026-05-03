@@ -29,7 +29,7 @@
     "three": "0.95.0",
     "threejs-slice-geometry": "^0.2.2",
     "underscore": "1.9.1",
-    "uuid": "3.3.2",
+    "uuid": "14.0.0",
     "validator": "10.7.0"
   },
   "license": "SEE LICENSE IN license.txt"

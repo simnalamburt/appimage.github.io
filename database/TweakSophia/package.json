@@ -11,6 +11,6 @@
   "license": "SEE LICENSE FILE",
   "dependencies": {
     "auto-launch": "^5.0.5",
-    "uuid": "^3.3.2"
+    "uuid": "^14.0.0"
   }
 }
