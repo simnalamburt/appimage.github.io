@@ -22,7 +22,7 @@
     "@angular/http": "^5.2.0",
     "@angular/platform-browser": "^5.2.0",
     "@angular/platform-browser-dynamic": "^5.2.0",
-    "@angular/platform-server": "^5.2.0",
+    "@angular/platform-server": "^21.2.11",
     "@angular/router": "^5.2.0",
     "@ngrx/effects": "^4.1.1",
     "@ngrx/store": "^4.1.1",
@@ -65,7 +65,7 @@
     "sortablejs": "^1.7.0",
     "subscriptions-transport-ws": "^0.9.5",
     "to-snake-case": "^1.0.0",
-    "uuid": "^3.1.0",
+    "uuid": "^14.0.0",
     "valid-url": "^1.0.9",
     "zone.js": "^0.8.20"
   },
