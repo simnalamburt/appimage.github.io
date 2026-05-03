@@ -148,7 +148,7 @@
     "shortid": "^2.2.15",
     "sqlite3": "^4.1.1",
     "transducers.js": "^0.3.2",
-    "uuid": "^3.3.3",
+    "uuid": "^14.0.0",
     "winreg": "^1.2.4",
     "write-file-atomic": "^3.0.1",
     "yargs": "^15.1.0"

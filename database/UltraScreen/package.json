@@ -6,7 +6,7 @@
   "license": null,
   "main": "./dist/electron/main.js",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.16.0",
     "peerjs": "^0.3.24",
     "simple-peer": "^9.3.0",
     "vue": "^2.5.16",
