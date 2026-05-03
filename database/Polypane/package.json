@@ -81,7 +81,7 @@
     "tough-cookie": "^4.0.0",
     "universal-analytics": "^0.4.23",
     "unzip-crx-3": "^0.2.0",
-    "uuid": "^8.3.2",
+    "uuid": "^14.0.0",
     "win-7zip": "^0.1.1",
     "worker-loader": "^3.0.8"
   },
