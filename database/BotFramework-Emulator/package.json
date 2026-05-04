@@ -38,7 +38,7 @@
     "rsa-pem-from-mod-exp": "0.8.4",
     "rxjs": "5.4.2",
     "winreg": "1.2.0",
-    "xmldom": "0.1.27",
+    "xmldom": "0.6.0",
     "xtend": "4.0.1"
   }
 }
