@@ -13,7 +13,7 @@
     "mousetrap": "^1.6.3",
     "os-locale": "^4.0.0",
     "source-map-support": "^0.5.16",
-    "uuid": "^3.3.3"
+    "uuid": "^14.0.0"
   },
   "resolutions": {
     "js-yaml": "^3.13.1"
