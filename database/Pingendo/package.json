@@ -36,7 +36,7 @@
     "tinycolor2": "^1.4.1",
     "true-case-path": "^1.0.3",
     "universal-analytics": "^0.4.17",
-    "uuid": "^3.3.2"
+    "uuid": "^14.0.0"
   },
   "npmSkipBuildFromSource": true,
   "npmRebuild": false,
