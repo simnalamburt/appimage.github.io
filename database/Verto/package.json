@@ -17,7 +17,7 @@
   "dependencies": {
     "@chenfengyuan/vue-countdown": "1.1.0",
     "@chenfengyuan/vue-qrcode": "1.0.0",
-    "axios": "0.18.0",
+    "axios": "0.31.1",
     "clipboard-polyfill": "2.7.0",
     "dotenv": "6.2.0",
     "dotenv-webpack": "1.6.0",
