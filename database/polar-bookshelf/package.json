@@ -120,7 +120,7 @@
     "typemoq": "^2.1.0",
     "underscore": "^1.9.1",
     "universal-analytics": "^0.4.20",
-    "uuid": "^3.3.2",
+    "uuid": "^14.0.0",
     "ws": "^6.0.0"
   },
   "collective": {
