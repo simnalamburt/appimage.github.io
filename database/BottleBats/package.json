@@ -47,7 +47,7 @@
     "source-map-support": "^0.5.0",
     "string-argv": "0.0.2",
     "tmp": "0.0.33",
-    "uuid": "^3.2.1"
+    "uuid": "^14.0.0"
   },
   "devEngines": {
     "node": ">=8.x",
