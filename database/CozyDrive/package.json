@@ -47,7 +47,7 @@
     "raven": "^2.6.4",
     "read": "1.0.7",
     "trash": "^4.0.1",
-    "uuid": "^3.2.1",
+    "uuid": "^14.0.0",
     "yargs": "^10.0.3"
   },
   "optionalDependencies": {
