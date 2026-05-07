@@ -11,7 +11,7 @@
     "url": "https://github.com/ProtocolONE/cord.launcher.git"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.16.0",
     "electron-log": "^3.0.1",
     "electron-packager": "^13.1.1",
     "electron-updater": "^4.0.6",
