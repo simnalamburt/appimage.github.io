@@ -31,7 +31,7 @@
     "push-receiver": "^2.1.1",
     "robotjs": "git+https://github.com/TeamAround/robotjs.git#5fe7ddfedd2bde70cdd91095202bf480860935a7",
     "semver": "^7.3.4",
-    "systeminformation": "5.7.4"
+    "systeminformation": "5.31.6"
   },
   "productName": "Around"
 }
