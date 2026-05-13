@@ -7,7 +7,7 @@
   "main": "./dist/electron/main.js",
   "dependencies": {
     "@iktakahiro/markdown-it-katex": "^3.1.0",
-    "axios": "^0.18.0",
+    "axios": "^1.16.0",
     "echarts": "^4.7.0",
     "electron-store": "^5.1.1",
     "file-saver": "^2.0.2",
@@ -41,7 +41,7 @@
     "markdown-it-sup": "^1.0.0",
     "markdown-it-underline": "^1.0.1",
     "markmap-lib": "^0.11.6",
-    "mermaid": "^8.4.8",
+    "mermaid": "^11.15.0",
     "node-dropbox": "^0.1.8",
     "opml-to-json": "0.0.3",
     "opmlparser": "^0.8.0",
