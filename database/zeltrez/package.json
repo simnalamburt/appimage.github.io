@@ -12,7 +12,7 @@
   "license": "UNLICENSED",
   "main": "./dist/electron/main.js",
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^1.16.1",
     "bip32-utils": "git://github.com/TheTrunk/bip32-utils#master",
     "bitcoin": "^3.0.1",
     "bitcoinjs-lib": "git://github.com/TheTrunk/bitcoinjs-lib#master",
