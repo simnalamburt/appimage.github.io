@@ -34,7 +34,7 @@
     "apollo-link-http": "^1.5.4",
     "auto-launch": "^5.0.x",
     "autosize": "^4.0.x",
-    "axios": "^0.18.0",
+    "axios": "^1.16.1",
     "babel-cli": "^6.26.0",
     "backtrace-js": "^0.0.11",
     "base-64": "^0.1.x",

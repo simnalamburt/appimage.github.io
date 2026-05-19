@@ -10,7 +10,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.16.1",
     "buttercup": "^1.7.1",
     "chalk": "^2.4.1",
     "colors": "^1.3.0",
